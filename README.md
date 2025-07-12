@@ -9,7 +9,7 @@ Yönetim Bilişim Sistemleri (YBS) öğrencisiyim.
 
 * 📚  Balıkesir Bandırma On Yedi Eylül Üniversitesi'nde Yönetim Bilişim Sistemleri öğrencisiyim.
 * 🧠  Yapay zeka, veri bilimi ve yazılıma büyük bir ilgi duyuyorum.
-* 👨‍💻  Gelecekte yazılım geliştirme ve veri analizi alanlarında uzmanlaşmayı hedefliyorum.
+* 👨‍💻  Gelecekte yazılım geliştirme ve veri bilimi alanlarında uzmanlaşmayı hedefliyorum.
 
 
 ---
