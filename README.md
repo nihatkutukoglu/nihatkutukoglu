@@ -33,6 +33,7 @@ Aşağıda farklı alanlarda geliştirdiğim tüm projeleri (aktif projeler, dem
 * 📽️ **Sunumlar:** [bank-siniflandirma-sunum-ekip](https://github.com/nihatkutukoglu/bank-siniflandirma-sunum-ekip), [banka-siniflandirma-sunum](https://github.com/nihatkutukoglu/banka-siniflandirma-sunum)
 
 #### 🌐 Web Geliştirme (Web Development)
+* 🍔 [**bandirma-yemek**](https://github.com/nihatkutukoglu/bandirma-yemek) - Bandırma'daki restoran ve yemek siparişi için web arayüzü projesi.
 * 💨 [**buhar-makinesi-web**](https://github.com/nihatkutukoglu/buhar-makinesi-web) - Buhar makineleri için geliştirilmiş kurumsal web sitesi (Next.js & Vercel). *(Önceki sürüm: [buharmakinesi](https://github.com/nihatkutukoglu/buharmakinesi))*
 * 🚀 [**umit-dasdemir-marketing**](https://github.com/nihatkutukoglu/umit-dasdemir-marketing) - Pazarlama ve kişisel marka için geliştirilmiş modern web arayüzü.
 * 🕊️ [**beyaz-guvercin-web**](https://github.com/nihatkutukoglu/beyaz-guvercin-web) - Modern ve responsive bir web projesi.
