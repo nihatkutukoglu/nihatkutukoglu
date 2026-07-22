@@ -12,25 +12,38 @@
 
 ---
 
-### 📂 Portfolyo & Öne Çıkan Projelerim
+### 📂 Portfolyo & Tüm Projelerim
 
-Aşağıda farklı alanlarda geliştirdiğim projeleri kategoriler halinde bulabilirsiniz:
+Aşağıda farklı alanlarda geliştirdiğim tüm projeleri (aktif projeler, demolar ve sunumlar dahil) kategoriler halinde bulabilirsiniz:
 
 #### 📊 Veri Bilimi & Makine Öğrenmesi (Data Science & ML)
 * 🛒 [**WholesaleInsight**](https://github.com/nihatkutukoglu/WholesaleInsight) - Toptan satış verileri üzerinde Hiyerarşik Kümeleme (PCA, StandardScaler, Ward Linkage) ile Müşteri Segmentasyonu.
+* 🧩 [**kmeans-customer**](https://github.com/nihatkutukoglu/kmeans-customer) - Müşteri verileri üzerinde K-Means algoritması ile kümeleme analizi.
 * 🚗 [**araba-fiyat-tahmini**](https://github.com/nihatkutukoglu/araba-fiyat-tahmini) - Makine öğrenmesi algoritmaları ile ikinci el araç fiyat tahmini modeli.
 * 🏦 [**banka-siniflandirma-proje**](https://github.com/nihatkutukoglu/banka-siniflandirma-proje) - Banka müşteri verileri üzerinde Sınıflandırma (Classification) analizi.
+* 📈 [**spor-salonu-tahmin**](https://github.com/nihatkutukoglu/spor-salonu-tahmin) - Spor salonu verileri üzerine tahmin ve modelleme çalışması.
+* 🩸 [**diyabet-analiz**](https://github.com/nihatkutukoglu/diyabet-analiz) - Diyabet veri seti üzerinde istatistiksel analiz ve makine öğrenmesi.
+* 🔥 [**cezayir-orman-yanginlari**](https://github.com/nihatkutukoglu/cezayir-orman-yanginlari) - Cezayir orman yangınları veri seti ile Makine Öğrenmesi ve Regresyon Analizi.
+* 🔢 [**python-regresyon-projeleri**](https://github.com/nihatkutukoglu/python-regresyon-projeleri) - Çeşitli regresyon modelleri üzerine Python çalışmaları.
+* 🎵 [**spotify-churn**](https://github.com/nihatkutukoglu/spotify-churn) - Spotify müşteri terk (churn) analizi tahmini.
 * ☕ [**Python-Kahve-Satis-Veri-Gorsellestirme**](https://github.com/nihatkutukoglu/Python-Kahve-Satis-Veri-Gorsellestirme) - Pandas, Matplotlib ve Seaborn ile detaylı kahve satış verisi analizi.
 * 🌍 [**kuresel-askeri-analiz-veri-gorsellestirme**](https://github.com/nihatkutukoglu/kuresel-askeri-analiz-veri-gorsellestirme) - 133 ülkenin askeri ve ekonomik verilerinin analizi.
+* 🧠 [**zihinselsaglikverigorsellestirme**](https://github.com/nihatkutukoglu/zihinselsaglikverigorsellestirme) - Zihinsel sağlık verileri üzerine görselleştirme ve analiz.
+* 📉 [**veri_gorsellestirme**](https://github.com/nihatkutukoglu/veri_gorsellestirme) & [**veri-gorsellestirme**](https://github.com/nihatkutukoglu/veri-gorsellestirme) - Çeşitli veri görselleştirme alıştırmaları ve projeleri.
+* 📽️ **Sunumlar:** [bank-siniflandirma-sunum-ekip](https://github.com/nihatkutukoglu/bank-siniflandirma-sunum-ekip), [banka-siniflandirma-sunum](https://github.com/nihatkutukoglu/banka-siniflandirma-sunum)
 
 #### 🌐 Web Geliştirme (Web Development)
-* 💨 [**buhar-makinesi-web**](https://github.com/nihatkutukoglu/buhar-makinesi-web) - Buhar makineleri için geliştirilmiş kurumsal web sitesi (Next.js & Vercel).
+* 💨 [**buhar-makinesi-web**](https://github.com/nihatkutukoglu/buhar-makinesi-web) - Buhar makineleri için geliştirilmiş kurumsal web sitesi (Next.js & Vercel). *(Önceki sürüm: [buharmakinesi](https://github.com/nihatkutukoglu/buharmakinesi))*
+* 🚀 [**umit-dasdemir-marketing**](https://github.com/nihatkutukoglu/umit-dasdemir-marketing) - Pazarlama ve kişisel marka için geliştirilmiş modern web arayüzü.
 * 🕊️ [**beyaz-guvercin-web**](https://github.com/nihatkutukoglu/beyaz-guvercin-web) - Modern ve responsive bir web projesi.
 * 👨‍💻 [**nihatkutukoglu-portfolio**](https://github.com/nihatkutukoglu/nihatkutukoglu-portfolio) - Kişisel portfolyo ve CV web sitem.
+* 📄 [**betul-cv**](https://github.com/nihatkutukoglu/betul-cv) - Kişisel CV ve özgeçmiş web sitesi projesi.
+* 🏢 [**TekNova**](https://github.com/nihatkutukoglu/TekNova) - Teknoloji firması konseptli web projesi.
+* 🕸️ [**Webs**](https://github.com/nihatkutukoglu/Webs) - Çeşitli web arayüzü denemeleri ve pratikleri.
 
 #### 🤖 Yapay Zeka Uygulamaları (AI & Agents)
-* 🧭 [**esnafpusulaai**](https://github.com/nihatkutukoglu/esnafpusulaai) - Esnaflar için yapay zeka destekli yönlendirme ve analiz asistanı.
-* 🥋 [**sensei-ai**](https://github.com/nihatkutukoglu/sensei-ai) - Özel eğitim ve danışmanlık amaçlı AI asistan projesi.
+* 🧭 [**esnafpusulaai**](https://github.com/nihatkutukoglu/esnafpusulaai) - Esnaflar için yapay zeka destekli yönlendirme ve analiz asistanı. *(Arayüz/Alternatif: [esnafpusula](https://github.com/nihatkutukoglu/esnafpusula))*
+* 🥋 [**sensei-ai**](https://github.com/nihatkutukoglu/sensei-ai) & [**SenseiAI**](https://github.com/nihatkutukoglu/SenseiAI) - Özel eğitim ve danışmanlık amaçlı AI asistan projeleri.
 * 📈 [**arzmetric-ai**](https://github.com/nihatkutukoglu/arzmetric-ai) - AI tabanlı metrik ve veri ölçüm aracı.
 
 #### 💼 Kurumsal Yazılımlar (ERP & Business Tools)
@@ -41,6 +54,10 @@ Aşağıda farklı alanlarda geliştirdiğim projeleri kategoriler halinde bulab
 #### 🗄️ Veritabanı & SQL
 * 🔥 [**temmuz2025-yangin-veritabani-projesi**](https://github.com/nihatkutukoglu/temmuz2025-yangin-veritabani-projesi) - Yangın olaylarının ilişkisel veritabanı tasarımı ve SQL ile analizi.
 * 🏛️ [**eski-sirketler-sql-veritabani**](https://github.com/nihatkutukoglu/eski-sirketler-sql-veritabani) - Tarihi şirketlerin veritabanı şeması ve SQL sorguları.
+
+#### 📚 Diğer & Eğitim (Others & Education)
+* 🐍 [**Python**](https://github.com/nihatkutukoglu/Python) - Temel seviye Python alıştırmaları ve öğrenim süreçleri.
+* 🐱 [**desktop-tutorial**](https://github.com/nihatkutukoglu/desktop-tutorial) - GitHub Desktop tutorial repository.
 
 ---
 
