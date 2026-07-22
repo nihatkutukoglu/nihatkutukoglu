@@ -36,9 +36,9 @@ Aşağıda farklı alanlarda geliştirdiğim tüm projeleri (aktif projeler, dem
 * 💨 [**buhar-makinesi-web**](https://github.com/nihatkutukoglu/buhar-makinesi-web) - Buhar makineleri için geliştirilmiş kurumsal web sitesi (Next.js & Vercel). *(Önceki sürüm: [buharmakinesi](https://github.com/nihatkutukoglu/buharmakinesi))*
 * 🚀 [**umit-dasdemir-marketing**](https://github.com/nihatkutukoglu/umit-dasdemir-marketing) - Pazarlama ve kişisel marka için geliştirilmiş modern web arayüzü.
 * 🕊️ [**beyaz-guvercin-web**](https://github.com/nihatkutukoglu/beyaz-guvercin-web) - Modern ve responsive bir web projesi.
-* 👨‍💻 [**nihatkutukoglu-portfolio**](https://github.com/nihatkutukoglu/nihatkutukoglu-portfolio) - Kişisel portfolyo ve CV web sitem.
+* 👨‍💻 [**nihatkutukoglu-portfolio**](https://github.com/nihatkutukoglu/nihatkutukoglu-portfolio) - Kişisel portfolyo ve CV web sitem. [🔗 Canlı Site](https://nihatkutukoglu-portfolio.vercel.app)
 * 📄 [**betul-cv**](https://github.com/nihatkutukoglu/betul-cv) - Kişisel CV ve özgeçmiş web sitesi projesi.
-* 🏢 [**TekNova**](https://github.com/nihatkutukoglu/TekNova) - Teknoloji firması konseptli web projesi.
+* 🏢 [**TekNova**](https://github.com/nihatkutukoglu/TekNova) - Teknoloji firması konseptli web projesi. [🔗 Canlı Site](https://teknova-roan.vercel.app)
 * 🕸️ [**Webs**](https://github.com/nihatkutukoglu/Webs) - Çeşitli web arayüzü denemeleri ve pratikleri.
 
 #### 🤖 Yapay Zeka Uygulamaları (AI & Agents)
